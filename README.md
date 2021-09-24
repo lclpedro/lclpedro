@@ -7,7 +7,6 @@ A little about myself:
 - 🔭 I’m currently [Shipay](https://shipay.com.br). 
 - 🌱 I’m currently learning DataScience and Machine Learning.
 - 📫 How to reach me:
-  - Email: lclpedro@gmail.com
   - Instragram: [@lclpedro](https://instagram.com/lclpedro)
   - Telgram: [@pedrolucasl](https://t.me/pedrolucasl)
 - ⚡ Fun fact: I'am Acreano, North of the country Brazil.
